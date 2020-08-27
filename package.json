@@ -1,0 +1,27 @@
+{
+  "name": "gv-js-training",
+  "version": "1.0.0",
+  "description": "Clone this project and complete your tasks here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouchjos/gv-js-training.git"
+  },
+  "author": "Josef Moucha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mouchjos/gv-js-training/issues"
+  },
+  "homepage": "https://github.com/mouchjos/gv-js-training#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  }
+}
